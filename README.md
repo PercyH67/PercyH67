@@ -6,7 +6,6 @@ const Percy = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
 
